@@ -316,6 +316,15 @@
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#55",
       "lastChecked": "2026-10-26",
       "status": "ok"
+    },
+    {
+      "name": "MergeVerse",
+      "url": "https://t.me/MergeVerseBot/app",
+      "description": "Collectible card game built around Telegram Gifts: open card packs, merge duplicate cards into higher levels, complete collections and join events with Telegram Gift prizes. Free to play, 17 languages, Telegram Stars payments.",
+      "category": "Games",
+      "contributedBy": "bayoon1982",
+      "lastChecked": "2026-11-23",
+      "status": "ok"
     }
   ]
 }
